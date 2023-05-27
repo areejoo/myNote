@@ -26,8 +26,7 @@ Use Django 4.x.x+
 
 ## Diagrams (ERD)
 
-![image](https://github.com/areejoo/myNote/assets/46300010/9c8c6d86-5f5d-452d-88f0-6e05f1ecaa70)
-
+![erd](https://github.com/areejoo/myNote/assets/46300010/df8348ee-e95f-4562-b8f0-91f08eda23c2)
 
 ## Running the application
 
