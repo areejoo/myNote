@@ -30,7 +30,7 @@ Use Django 4.x.x+
 
 ## Running the application
 
-    $ cd Note
+    $ cd myNote-main
     
     $ python -m venv venv
 
