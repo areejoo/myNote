@@ -46,7 +46,8 @@ Use Django 4.x.x+
 
 
 
-## Demo
+## posyman
 
-Insert gif or link to demo
+![postman](https://github.com/areejoo/myNote/assets/46300010/ad9af900-c0f3-47b8-9fe0-e5bcdd003eb0)
+
 
