@@ -20,6 +20,11 @@ Postgresql - this is a database server
 Use Python 3.x.x+
 
 Use Django 4.x.x+
+
+## Diagrams (ERD)
+![image](https://github.com/areejoo/myNote/assets/46300010/9c8c6d86-5f5d-452d-88f0-6e05f1ecaa70)
+
+
 ## Running the application
 
     $ cd Note
@@ -35,9 +40,8 @@ Use Django 4.x.x+
     $ python manage.py migrate
 
     $  python manage.py runserver 
-## Diagrams (ERD)
-https://pasteboard.co/0zGIrd9CE591.png
-![erd](https://github.com/areejoo/myNote/assets/46300010/55d300dc-d30f-4b78-975b-0c77297e7cea)
+
+
 
 ## Demo
 
