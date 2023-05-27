@@ -37,6 +37,8 @@ Use Django 4.x.x+
     $  python manage.py runserver 
 ## Diagrams (ERD)
 https://pasteboard.co/0zGIrd9CE591.png
+![erd](https://github.com/areejoo/myNote/assets/46300010/55d300dc-d30f-4b78-975b-0c77297e7cea)
+
 ## Demo
 
 Insert gif or link to demo
