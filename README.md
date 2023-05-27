@@ -13,8 +13,11 @@ With this API:
 
 ## Technology stack
 Django - a python web framework
+
 Django REST Framework - a flexible toolkit to build web APIs
+
 Postgresql - this is a database server
+
 ## Requirments
 
 Use Python 3.x.x+
@@ -22,6 +25,7 @@ Use Python 3.x.x+
 Use Django 4.x.x+
 
 ## Diagrams (ERD)
+
 ![image](https://github.com/areejoo/myNote/assets/46300010/9c8c6d86-5f5d-452d-88f0-6e05f1ecaa70)
 
 
