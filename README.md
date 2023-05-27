@@ -46,8 +46,12 @@ Use Django 4.x.x+
 
 
 
-## posyman
+## screenshots from postman
 
-![postman](https://github.com/areejoo/myNote/assets/46300010/ad9af900-c0f3-47b8-9fe0-e5bcdd003eb0)
+![postman](https://github.com/areejoo/myNote/assets/46300010/2bb7ba30-38d4-45af-b8b7-0ba01a6f5298)
+![get2](https://github.com/areejoo/myNote/assets/46300010/ad46ed48-0f57-4ce5-b6ad-29a39ca8dbed)
+![post](https://github.com/areejoo/myNote/assets/46300010/583d577e-c777-4c62-9a54-c04156d4bef3)
+![felete](https://github.com/areejoo/myNote/assets/46300010/4443a818-168a-4260-ac6a-eed8a34aea61)
+![get](https://github.com/areejoo/myNote/assets/46300010/c67bc7d4-fc2d-4fd6-80e7-e0474773faee)
 
 
